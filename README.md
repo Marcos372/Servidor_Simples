@@ -30,13 +30,16 @@ Projeto desenvolvido para praticar os primeiros conceitos de servidor e rotas ut
 3. Execute:
 
 ```bash id="bfx26o"
-node app.js
+node servidor.js
 ```
 
 4. Abra o navegador e acesse:
 
 ```plaintext id="vnsph0"
 http://localhost:3000
+OU
+http://localhost:3000/usarios
+
 ```
 
 ##  Resultado esperado
